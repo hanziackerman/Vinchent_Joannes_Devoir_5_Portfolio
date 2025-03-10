@@ -64,4 +64,7 @@ src/
 
 ## Validation W3C
 
-Les captures d'écran des validations W3C sont disponibles dans le dossier `validations-w3c/`.
+Les captures d'écran des validations W3C sont disponibles dans le dossier `W3C/`. Ces validations incluent :
+- `indexhtml.png` : Validation du HTML
+- `maincss.jpg.png` : Validation du CSS principal
+- `appcss.png` : Validation du CSS de l'application
